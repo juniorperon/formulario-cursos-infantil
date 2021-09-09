@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+
+.title-principal {
+    align-items: center;
+    text-align: center;
+    color: orange;
+    margin-top: 5%;
+}
+
+.row {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+a:hover {
+    color: blue;
+}

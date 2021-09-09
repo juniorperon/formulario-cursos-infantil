@@ -1,0 +1,62 @@
+h1{
+    margin:0 auto;
+    max-width: 400px;
+    text-align: center;
+    color: orange;
+}
+
+h6 {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    padding: 2%;
+    background-color: black;
+    border-radius: 5px;
+}
+
+a:hover {
+    color: white;
+}
+
+body {
+    margin: 0px;
+    padding:0px;
+    align-items: center;
+    background: lightgray;
+}
+
+form {
+    font-size: 16px;
+    max-width: 500px;
+    margin:0 auto;
+    padding: 0 10px 10px 10px;
+}
+
+input {
+    width:475px;
+    padding: 10px;
+}
+
+select {
+    width:500px;
+    padding: 10px;
+}
+
+.enviar {
+    background-color: blue;
+    height:40px;
+    width: 140px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    cursor: pointer;
+    margin-top:10px;
+    margin-left:37%;
+}
+
+.enviar:hover{
+    background-color: lightblue;
+}
